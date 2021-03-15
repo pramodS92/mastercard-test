@@ -6,11 +6,11 @@
     "env": {
         "GATEWAY_MERCHANT_ID": {
             "required": true,
-            "description": "Your TEST Gateway merchant ID (must begin with 'TEST')"
+            "description": "TESTCOMTESTLKR"
         },
         "GATEWAY_API_PASSWORD": {
             "required": true,
-            "description": "Your TEST Gateway API password"
+            "description": "60d34a1763f30e34b5e3b04ac32ee32b"
         },
         "GATEWAY_REGION": {
             "required": true,
