@@ -6,20 +6,20 @@
     "env": {
         "GATEWAY_MERCHANT_ID": {
             "required": true,
-            "description": "Your TEST Gateway merchant ID (must begin with 'TEST')"
+            "description": "TESTCOMTESTLKR"
         },
         "GATEWAY_API_PASSWORD": {
             "required": true,
-            "description": "Your TEST Gateway API password"
+            "description": "60d34a1763f30e34b5e3b04ac32ee32b"
         },
         "GATEWAY_REGION": {
             "required": true,
-            "description": "The Gateway region to target (options: ASIA_PACIFIC, EUROPE, NORTH_AMERICA, INDIA, CHINA, MTF)",
+            "description": "ASIA_PACIFIC",
             "value": "MTF"
         },
         "GATEWAY_API_VERSION": {
             "required": true,
-            "description": "The Gateway API version to target",
+            "description": "44",
             "value": "53"
         }
     },
