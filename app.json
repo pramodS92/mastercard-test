@@ -14,12 +14,12 @@
         },
         "GATEWAY_REGION": {
             "required": true,
-            "description": "The Gateway region to target (options: ASIA_PACIFIC, EUROPE, NORTH_AMERICA, INDIA, CHINA, MTF)",
-            "value": "MTF"
+            "description": "ASIA_PACIFIC",
+            "value": "ASIA_PACIFIC"
         },
         "GATEWAY_API_VERSION": {
             "required": true,
-            "description": "The Gateway API version to target",
+            "description": "53",
             "value": "53"
         }
     },
