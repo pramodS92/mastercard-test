@@ -54,9 +54,9 @@ if (strcasecmp($region, "ASIA_PACIFIC") == 0) {
 if (intval($apiVersion) < 39) {
     error(500, "API Version must be >= 39");
 }
-
+//changed
 // build api endpoint url
-$gatewayUrl = "https://${prefix}gateway.mastercard.com/api/rest/version/${apiVersion}/merchant/${merchantId}";
+$gatewayUrl = "https://cbcmpgs.gateway.mastercard.com/api/rest/version/49/merchant/${merchantId}";
 
 // parse query string
 $query = array();
