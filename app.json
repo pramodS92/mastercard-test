@@ -25,7 +25,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/php"
+            "url": "https://mastercard-cbc.herokuapp.com/"
         }
     ]
 }
