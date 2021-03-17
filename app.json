@@ -14,18 +14,18 @@
         },
         "GATEWAY_REGION": {
             "required": true,
-            "description": "ASIA_PACIFIC",
-            "value": "ASIA_PACIFIC"
+            "description": "MTF",
+            "value": "MTF"
         },
         "GATEWAY_API_VERSION": {
             "required": true,
-            "description": "53",
-            "value": "53"
+            "description": "49",
+            "value": "49"
         }
     },
     "buildpacks": [
         {
-            "url": "https://mastercard-cbc.herokuapp.com/"
+            "url": "heroku/php"
         }
     ]
 }
