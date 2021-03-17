@@ -14,8 +14,8 @@
         },
         "GATEWAY_REGION": {
             "required": true,
-            "description": "MTF",
-            "value": "MTF"
+            "description": "cbcmpgs",
+            "value": "cbcmpgs"
         },
         "GATEWAY_API_VERSION": {
             "required": true,
